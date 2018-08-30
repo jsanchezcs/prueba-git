@@ -1,4 +1,4 @@
-mpany;
+package com.company;
 
 public class Main {
 
@@ -6,4 +6,3 @@ public class Main {
         // write your code here
     }
 }
-package com.co
